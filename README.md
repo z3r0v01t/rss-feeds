@@ -9,7 +9,7 @@ A curated list of RSS feeds used in Recommended Feeds and local news sections of
 Name | Website | Category</sup>
 --------|------|------------------------
 Study Discuss | [Study Discuss](https://www.studydiscuss.in) | [Best Education](https://www.studydiscuss.in)
-Games Redeem | [Games Redeem](https://gamesredeem.com) | [Best Gaming](https://gamesredeem.com)
+Games Redeem | [Games Redeem](https://gamesredeem.com) | [Best Gaming](https://gamesredeem.com/redeem-codes/)
 
 
 ### Add new website or category
